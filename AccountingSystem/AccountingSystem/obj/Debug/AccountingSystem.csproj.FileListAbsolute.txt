@@ -1,0 +1,11 @@
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.AssemblyReference.cache
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Form1.resources
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.cache
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\LAB\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.SettingForm.resources
